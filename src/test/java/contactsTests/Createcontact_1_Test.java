@@ -46,6 +46,7 @@ public class Createcontact_1_Test extends Baseclass {
 	     {
 			System.out.println(contactHeader);
 			System.out.println("Pass");
+			System.out.println("kick");
 		 }
 		    else
 	     {
