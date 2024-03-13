@@ -37,7 +37,7 @@ public class Createcontact_1_Test extends Baseclass {
 		//6.Create new contact
 		CreateNewcontactPage cncp=new CreateNewcontactPage(driver);
 		cncp.createNewcontact(LASTNAME);
-		//Assert.fail();
+		
 			
 		//7.validation
 		ContactsInfoPage cip=new ContactsInfoPage(driver);
